@@ -1,7 +1,5 @@
 # Number-guessing-game
 
-# Number Guessing Game
-
 A simple console-based number guessing game written in C++. The program picks a random number between 1 and 10, and the player has a limited number of attempts to guess it correctly.
 
 ## How It Works
